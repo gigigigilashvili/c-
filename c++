@@ -80,6 +80,9 @@ int main() {
         student.printAverageGrade(studentGrades[i], numGrades);
     }
     
+    return 0;
+}
+
     
     
     
@@ -208,6 +211,3 @@ int main() {
     
     
      
-
-    return 0;
-}
